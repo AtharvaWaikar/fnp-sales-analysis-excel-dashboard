@@ -108,6 +108,9 @@ All visualizations dynamically update based on selected filters.
 
 ---
 
+## Project Screenshot
+![Dashboard](Fnp%20Sales%20Analysis%20Dashboard%20Screenshot.jpg)
+
 ## 🛠 Tools & Technologies Used
 
 - Power BI / Microsoft Excel  
