@@ -152,5 +152,11 @@ This project simulates a real-world e-commerce analytics environment.
 Power BI | Excel | SQL | Data Analytics  
 
 ---
+Portfolio :- 
+---
+Linkedln :- https://www.linkedin.com/in/atharva-waikar-a95a042b5/
+---
+Github :- https://github.com/AtharvaWaikar
+---
 
 ⭐ If you found this project insightful, consider giving it a star!
